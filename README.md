@@ -15,6 +15,6 @@ Page 2: Contains the general effects of music and what it does to a listener, al
 <br>
 Page 3: Emotional effects contain a deeper view into the pshycological happenings of specific songs, also contains a link for the next page and home page 
 <br>
-Page 4: Focuses on how music makes people recognize a brand, name, memory associated with it, also contains a link for the next page and home page 
+Page 4: Focuses on how music makes people recognize a brand, name, memory associated with it, contains link for home page 
 <br>
 Wireframe: https://www.canva.com/design/DAFMleXJ2tM/KEWeZDKYASWHQs36Amg7lw/edit?utm_content=DAFMleXJ2tM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
