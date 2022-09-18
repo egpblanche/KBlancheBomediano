@@ -9,12 +9,12 @@ Description: The effects of music are many, but this will focus on the psycholog
 <br>
 Homepage: Contains the title and description of the webpage, it also contains the link for the other pages in order.
 <br>
-Page 1: Contains the properties of music and how to define and distinguish and differenciate them, it also contains a link for the next page and home page
+Page 1: Contains the properties of music and how to define and distinguish and differenciate them, it also contains a link for the next page, previous page and home page
 <br>
-Page 2: Contains the general effects of music and what it does to a listener, also contains a link for the next page and home page 
+Page 2: Contains the general effects of music and what it does to a listener, also contains a link for the next page, previous page and home page 
 <br>
-Page 3: Emotional effects contain a deeper view into the pshycological happenings of specific songs, also contains a link for the next page and home page 
+Page 3: Emotional effects contain a deeper view into the psychological happenings of specific songs, also contains a link for the next page, previous page and home page 
 <br>
-Page 4: Focuses on how music makes people recognize a brand, name, memory associated with it, contains link for home page 
+Page 4: Focuses on how music makes people recognize a brand, name, memory associated with it, contains link for the previous page and the home page 
 <br>
 Wireframe: https://www.canva.com/design/DAFMleXJ2tM/KEWeZDKYASWHQs36Amg7lw/edit?utm_content=DAFMleXJ2tM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
