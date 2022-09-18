@@ -9,11 +9,11 @@ Description: The effects of music are many, but this will focus on the psycholog
 <br>
 Homepage: Contains the title and description of the webpage, it also contains the link for the other pages in order.
 <br>
-Page 1: 
+Page 1: Contains the properties of music and how to define and distinguish and differenciate them
 <br>
-Page 2:
+Page 2: Contains the general effects of music and what it does to a listener 
 <br>
-Page 3:
+Page 3: 
 <br>
 Page 4:
 <br>
