@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+p{color: lightblue;
+    font-family: Arial;
+    padding: 20px;
+    margin: 40px;
+   }
+h1 {
+  text-align:center;
+}
+  #links{
+  padding: 30px;
+  border-color:15px purple;
+  margin:10px;
+  }

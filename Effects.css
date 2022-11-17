@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color:black;
+}
+p, h2 {
+  color:black;
+  font-family:Arial;
+  padding:20px;
+  margin:40px;
+  background-color:purple;
+  }
+h1, h2 {
+  text-align:center
+}

@@ -1,0 +1,63 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color:black;
+}
+p, h2 {
+  color: lightblue;
+  font-family:Arial;
+  padding:20px;
+  margin:40px;
+  background-color:purple;
+}/*this is for text color and font and background color*/
+* {
+  text-align:justify;
+}
+h1, h2 {
+  text-align:center;
+}
+a {/*sources*/
+  text-decoration: none; 
+  color:#5c80f8;
+}
+#content {/*for the navigation at the bottom*/
+  position:relative;
+}
+#navigationleft {
+  position:absolute;
+  left:60px;
+  bottom:10px;
+}/*Navigation position*/
+#navigationright {
+  position:absolute;
+  right:50px;
+  bottom:10px;
+}/*Navigation position*/
+a > img, img {/*size of the images*/
+  height:60px;
+  width:60px:
+}
+#yellow {/*beginning of span decoration*/
+  color:#f0f644;
+}
+#white {
+  color:white;
+}
+#big {
+  font-size: 20px;
+}
+#red {
+  color:#ff0b0b;
+}
+#green {
+  color:#5be80f;
+}
+#grey {
+  color:#d3d3d3;
+}/*ending of span decorations*/
+#left {/*this is for the top part of the webpage(logo)*/
+  float: left;
+}
+#backgroundpurple {
+  background-color:purple;
+}/*this is for the background of the top part(div)*/
